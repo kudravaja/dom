@@ -8,3 +8,15 @@ box-shadow: 0 2px 8px rgba(0,0,0,.1);
 padding: 10px 20px;
 }
 .menubar img {height: 30px}
+
+.menubar ul {  display: flex;
+justify-content: space-between;}
+
+.menubar img{
+  height: 30px;
+}
+
+.menubar a {
+  color: 777;
+  text-decoration: none;
+}
